@@ -1,0 +1,33 @@
+{
+  "name": "pdf.js",
+  "version": "0.0.0",
+  "description": "Populate PDF Documents VIA JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/droppedonjapan/pdf.js.git"
+  },
+  "keywords": [
+    "PDF",
+    "FDF",
+    "PDF-Generation",
+    "PDF-Fill",
+    "Fill",
+    "Adobe",
+    "Acrobat",
+    "data"
+  ],
+  "author": "Albert Engelbrecht <dropped.on.japan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/droppedonjapan/pdf.js/issues"
+  },
+  "homepage": "https://github.com/droppedonjapan/pdf.js",
+  "devDependencies": {
+    "grunt": "^0.4.2",
+    "grunt-mocha-test": "^0.9.4"
+  }
+}
